@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+ }
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+.Main{
+  background-color: aliceblue;
+  min-height: 50vh;
+  max-width: 80vh;
+  min-width: 50vh;
+}
+:is(h1,h3,h2){
+  mix-blend-mode: difference;
+}
+
+
+
